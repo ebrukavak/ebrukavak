@@ -1,4 +1,4 @@
-![MasterHead](https://proeffico.com/wp-content/uploads/2023/10/devOps-trends.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif)
 <h1 align="center">Hi 👋, I'm EBRU</h1>
 <h3 align="center">I am AWS & DevOps Engineer</h3>
 
