@@ -1,4 +1,4 @@
-[![MasterHead]https://www.cloud4c.com/sites/default/files/2023-06/efficiency-by-design.webp]
+[![MasterHead]https://www.cloud4c.com/sites/default/files/2023-06/efficiency-by-design.webp
 <h1 align="center">Hi 👋, I'm EBRU</h1>
 <h3 align="center">I am AWS & DevOps Engineer</h3>
 
