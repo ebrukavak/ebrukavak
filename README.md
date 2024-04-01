@@ -1,4 +1,4 @@
-[![MasterHead]https://www.cloud4c.com/sites/default/files/2023-06/efficiency-by-design.web
+[![MasterHead]https://st.depositphotos.com/57404040/60706/i/450/depositphotos_607063656-stock-photo-devops-devsecops-approach-app-development.jpg
 <h1 align="center">Hi 👋, I'm EBRU</h1>
 <h3 align="center">I am AWS & DevOps Engineer</h3>
 
