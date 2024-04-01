@@ -1,4 +1,4 @@
-[!<[MasterHead] align="center">(https://st.depositphotos.com/57404040/60706/i/450/depositphotos_607063656-stock-photo-devops-devsecops-approach-app-development.jpg)]
+[![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*DhDTs5WmZdXHfjj6XcrzeA.gif)]
 <h1 align="center">Hi 👋, I'm EBRU</h1>
 <h3 align="center">I am AWS & DevOps Engineer</h3>
 
