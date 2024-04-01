@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*DhDTs5WmZdXHfjj6XcrzeA.gif)]
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fdevops-cloud&psig=AOvVaw2Q8g5Vz1orGTMPr7bBuNFs&ust=1712092993617000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiGicj5oYUDFQAAAAAdAAAAABAp)]
 <h1 align="center">Hi 👋, I'm EBRU</h1>
 <h3 align="center">I am AWS & DevOps Engineer</h3>
 
