@@ -1,4 +1,4 @@
-[![MasterHead](https://www.shutterstock.com/image-illustration/cloud-financial-management-finops-technological-260nw-2200503285.jpg)]
+[![MasterHead](https://proeffico.com/wp-content/uploads/2023/10/devOps-trends.gif)]
 <h1 align="center">Hi 👋, I'm EBRU</h1>
 <h3 align="center">I am AWS & DevOps Engineer</h3>
 
