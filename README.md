@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm EBRU</h1>
 <h3 align="center">I am AWS & DevOps Engineer</h3>
 
-- 🔭 I’m currently working on **Docker, Kubernetess**
+- 🔭 I’m currently working on **Docker, Kubernetess, Jenkins**
 
 - 📫 How to reach me **ebru.c.kavak@gmail.com**
 
